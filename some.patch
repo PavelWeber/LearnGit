@@ -1,0 +1,11 @@
+diff --git a/some.file b/some.file
+index 05740d3..0c53919 100644
+--- a/some.file
++++ b/some.file
+@@ -3,5 +3,5 @@ Line from GitHub
+ Hello git
+ Third line
+ New line
+-
+ after stash
++Pathc changes
